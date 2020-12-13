@@ -1,2 +1,2 @@
 # ShivaLib
-A library for Minecraft PvP Server
+A Spigot plugin library for Minecraft PvP Server
