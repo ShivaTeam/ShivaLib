@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShivaLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShivaLib_jar</output-path>
+    <root id="archive" name="ShivaLib.jar">
+      <element id="module-output" name="ShivaLib" />
+    </root>
+  </artifact>
+</component>
