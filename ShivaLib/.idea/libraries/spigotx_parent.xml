@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="spigotx-parent">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/spigotx-parent.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/spigotx-parent.jar!/" />
