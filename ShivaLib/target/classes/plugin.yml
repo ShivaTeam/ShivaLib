@@ -1,4 +1,10 @@
 name: ShivaLib
 version: 1.0
-author: Shiva Team
+author: Shiva Team & joeleoli
 main: team.shiva.shivalib.ShivaLib
+depend: [ ProtocolLib , ViaVersion ]
+commands:
+    reboot:
+    reboot cancel:
+    setspawn:
+    resetTablist:

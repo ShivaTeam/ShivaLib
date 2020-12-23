@@ -1,0 +1,8 @@
+disableScoreboard: false
+disableNametags: false
+Redis:
+  Host: 'localhost'
+  DbId: 0
+BackboneRedis:
+  Host: 'localhost'
+  DbId: 1

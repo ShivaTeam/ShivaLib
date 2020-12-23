@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ShivaLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/git/ShivaLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/git/ShivaLib/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
