@@ -1,0 +1,4 @@
+Mongo:
+  Host: localhost
+  Port: 27017
+  Database: LordMeme

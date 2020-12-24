@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LordMeme:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/LordMeme_jar</output-path>
+    <root id="archive" name="LordMeme.jar">
+      <element id="module-output" name="LordMeme" />
+    </root>
+  </artifact>
+</component>

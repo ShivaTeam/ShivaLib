@@ -1,0 +1,16 @@
+name: LordMeme
+version: 1.0
+main: us.zonix.anticheat.LordMeme
+author: "Zonix Network"
+depend: [ Core, ShivaLib ]
+commands:
+  gangsquad:
+  stfu:
+  gtfo:
+  rape:
+  skid:
+  rail:
+  setrangevl:
+  kys:
+  banwave:
+  logs:
