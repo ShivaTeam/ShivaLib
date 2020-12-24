@@ -1,0 +1,80 @@
+name: Core
+author: joeleoli & Shiva Team
+version: 1.0
+depend: [ ShivaLib ]
+main: team.shiva.core.Core
+commands:
+  msg:
+  rank removeperm:
+  clearpunishments:
+  rank delperm:
+  tell:
+  gamemode:
+  ban:
+  rank deleteperm:
+  tpms:
+  cleargrants:
+  rank:
+  rank inherit:
+  reply:
+  clearinv:
+  tpworld:
+  rank removepermission:
+  mute:
+  check:
+  togglepm:
+  list:
+  rank create:
+  showplayer:
+  warn:
+  ranks:
+  slowchat:
+  rank addperm:
+  mutechat:
+  togglesounds:
+  broadcast:
+  bc:
+  loc:
+  rank delete:
+  request:
+  alts:
+  rank addpermission:
+  sc:
+  hideplayer:
+  sounds:
+  showallplayers:
+  heal:
+  helpop:
+  rank uninherit:
+  unmute:
+  sm:
+  sudo:
+  sudoall:
+  rank setweight:
+  cc:
+  grants:
+  core debug:
+  rank info:
+  staffmode:
+  clearchat:
+  c:
+  staffchat:
+  setslots:
+  ci:
+  gm:
+  more:
+  clear:
+  togglepms:
+  message:
+  tpm:
+  unban:
+  r:
+  kick:
+  t:
+  rename:
+  rank help:
+  rank setcolor:
+  report:
+  whisper:
+  grant:
+  rank setprefix:

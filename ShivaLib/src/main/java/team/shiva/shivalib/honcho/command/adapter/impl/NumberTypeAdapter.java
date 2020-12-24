@@ -10,22 +10,22 @@ public class NumberTypeAdapter implements CommandTypeAdapter {
     public <T> T convert(String string, Class<T> type) {
         try {
             Number number = NumberFormat.getNumberInstance().parse(string);
-            if(type.equals(byte.class) || type.equals(Byte.class)){
+            if(type.equals(Byte.class)){
                 return type.cast(number.byteValue());
             }
-            if(type.equals(double.class) || type.equals(Double.class)){
+            if(type.equals(Double.class)){
                 return type.cast(number.doubleValue());
             }
-            if(type.equals(float.class) || type.equals(Float.class)){
+            if( type.equals(Float.class)){
                 return type.cast(number.floatValue());
             }
-            if(type.equals(int.class) || type.equals(Integer.class)){
+            if(type.equals(Integer.class)){
                 return type.cast(number.intValue());
             }
-            if(type.equals(long.class) || type.equals(Long.class)){
+            if(type.equals(Long.class)){
                 return type.cast(number.longValue());
             }
-            if(type.equals(short.class) || type.equals(Short.class)){
+            if(type.equals(Short.class)){
                 return type.cast(number.shortValue());
             }
         } catch (ParseException e) {

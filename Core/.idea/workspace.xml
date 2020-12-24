@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Core:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ShivaLib" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd220762-ea07-4309-a29a-f20bff228d85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/shiva/core/profile/conversation/command/SayCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/artifacts/PotPvP_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/libraries/ShivaLib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PotPvP/PotPvP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/autoreboot/AutoRebootHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/autoreboot/commands/AutoRebootCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/autoreboot/listeners/AutoRebootListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/autoreboot/tasks/ServerRebootTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/event/HalfHourEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/event/HourEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/Honcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/HonchoExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/CPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/CommandMeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/CommandOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/CommandTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/BooleanTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/CommandOptionTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/GameModeTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/NumberTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/PlayerTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/StringTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/WorldTypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/ButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/buttons/BackButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/buttons/BooleanButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/menus/ConfirmMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/pagination/JumpToPageButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/pagination/PageButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/pagination/PaginatedMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/menu/pagination/ViewAllPagesMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/nametag/NametagHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/nametag/NametagInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/nametag/NametagListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/nametag/NametagProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/phoenix/lang/file/AbstractConfigurationFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/phoenix/lang/file/language/LanguageConfigurationFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/phoenix/lang/file/language/LanguageConfigurationFileLocale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/phoenix/lang/file/type/BasicConfigurationFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/protocol/InventoryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/protocol/event/PlayerCloseInventoryEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/protocol/event/PlayerOpenInventoryEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/redis/RedisCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/ScoreFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/ScoreGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/ScoreboardConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/ScoreboardHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/ScoreboardListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/ScoreboardThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/scoreboard/TitleGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/BlockVectorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/ItemStackAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/ItemStackSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/LocationAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/LocationSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/PlayerInventorySerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/PotionEffectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/serialization/VectorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/spawn/SetSpawnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/spawn/SpawnHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/spawn/SpawnListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/ResetTablistCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/TablistHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/TablistListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/TablistThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/abstraction/EntityPlayer8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/abstraction/EntityPlayerWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/abstraction/PacketUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/abstraction/PacketUtil8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/BlankTabRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/DefaultLayoutProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/LayoutProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/StandardRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/StaticTabRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/Tab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/TabLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/tab/TabRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/tablist/util/TabIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/BungeeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/DirectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/EntityUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/FancyPaginatedOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/LocationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/NetworkUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/PaginatedOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/TPSUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/TimeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/countdown/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/countdown/CountdownBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShivaLib/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/FastAsyncWorldEdit-bukkit-19.11.13-5505943-1282-22.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/ProtocolLib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/ViaRewind-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/ViaVersion-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/WorldEdit.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/.idea/artifacts/ShivaLib_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/.idea/artifacts/ShivaLib_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/.idea/libraries/spigotx_parent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/out/artifacts/ShivaLib_jar/ShivaLib.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/out/artifacts/ShivaLib_jar/ShivaLib.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/ShivaLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/ShivaLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/PlayerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/util/PlayerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/ShivaLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/ShivaLib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/cuboid/Cuboid$CuboidDirection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/cuboid/Cuboid$CuboidDirection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/cuboid/Cuboid$CuboidIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/cuboid/Cuboid$CuboidIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/cuboid/Cuboid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/cuboid/Cuboid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/Callback.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/Callback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/ItemBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/ItemBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/PlayerUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/PlayerUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/UUIDUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/target/classes/team/shiva/shivalib/util/UUIDUtils.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m3JYMYiQDPaHw7JqzsNb47xCbG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lib/lombok.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\git\Core\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd220762-ea07-4309-a29a-f20bff228d85" name="Default Changelist" comment="" />
+      <created>1608716388872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608716388872</updated>
+      <workItem from="1608716390034" duration="281000" />
+      <workItem from="1608716676192" duration="812000" />
+      <workItem from="1608717491937" duration="265000" />
+      <workItem from="1608722036734" duration="93000" />
+      <workItem from="1608722466962" duration="12000" />
+      <workItem from="1608723283921" duration="1023000" />
+      <workItem from="1608725037321" duration="328000" />
+      <workItem from="1608726440706" duration="549000" />
+      <workItem from="1608727183043" duration="349000" />
+      <workItem from="1608727663560" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1608717703318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1608717703318" />
+    <state x="513" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1608717473471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1608717473471" />
+    <state x="357" y="104" key="FileChooserDialogImpl" timestamp="1608716960357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608716960357" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1608717645685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608717645685" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608725251602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608725251602" />
+  </component>
+</project>

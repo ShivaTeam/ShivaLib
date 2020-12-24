@@ -91,7 +91,29 @@ public class HonchoExecutor {
 
                 for (int i = 1; i < parameters.length; i++) {
                     Parameter parameter = parameters[i];
-                    CommandTypeAdapter adapter = honcho.getTypeAdapter(parameter.getType());
+                    Class<?> type = parameter.getType();
+                    if(type.equals(boolean.class)){
+                        type = Boolean.class;
+                    }
+                    if(type.equals(byte.class)){
+                        type = Byte.class;
+                    }
+                    if(type.equals(double.class)){
+                        type = Double.class;
+                    }
+                    if(type.equals(float.class)){
+                        type = Float.class;
+                    }
+                    if(type.equals(int.class)){
+                        type = Integer.class;
+                    }
+                    if(type.equals(long.class)){
+                        type = Long.class;
+                    }
+                    if(type.equals(short.class)){
+                        type = Short.class;
+                    }
+                    CommandTypeAdapter adapter = honcho.getTypeAdapter(type);
 
                     if (adapter == null) {
                         // TODO: throw error or log?
@@ -102,11 +124,10 @@ public class HonchoExecutor {
 
                     Object object;
                     if (i == (parameters.length - 1)) {
-                        object = adapter.convert(StringUtils.join(args, " ", i-1, args.length), parameter.getType());
+                        object = adapter.convert(StringUtils.join(args, " ", i-1, args.length), type);
                     } else {
-                        object = adapter.convert(args[i-1], parameter.getType());
+                        object = adapter.convert(args[i-1], type);
                     }
-
                     if (parameter.getType().equals(CommandOption.class) && object == null) {
                         List<String> replacement = new ArrayList<>(Arrays.asList(args));
                         replacement.add(i-1, null);
@@ -126,7 +147,7 @@ public class HonchoExecutor {
 
                 if (arguments.size() == parameters.length) {
                     try {
-                        method.invoke(command, arguments.toArray());
+                        method.invoke(command,arguments.toArray());
                     } catch (IllegalAccessException | InvocationTargetException e) {
                         e.printStackTrace();
                     }

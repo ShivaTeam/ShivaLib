@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PotPvP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ShivaLib" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="985ece9d-ff7f-4e48-ad23-724dc7b03bd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/out/artifacts/ShivaLib_jar/ShivaLib.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/out/artifacts/ShivaLib_jar/ShivaLib.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/HonchoExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/HonchoExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/NumberTypeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShivaLib/src/main/java/team/shiva/shivalib/honcho/command/adapter/impl/NumberTypeAdapter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j0KvhYnpnzupJLPi3TPv4AG8UQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShivaLib/out/artifacts/ShivaLib_jar/ShivaLib.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP\src" />
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP\src\net\frozenorb\potpvp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP\src\net\frozenorb\potpvp\command" />
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP\src\net\frozenorb\potpvp\arena" />
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP\src\net\frozenorb\potpvp\duel" />
+      <recent name="C:\Users\Administrator\IdeaProjects\PotPvP\src\net\frozenorb\potpvp\elo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="985ece9d-ff7f-4e48-ad23-724dc7b03bd7" name="Default Changelist" comment="" />
+      <created>1602935819126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602935819126</updated>
+      <workItem from="1602935823511" duration="50000" />
+      <workItem from="1602936081622" duration="1531000" />
+      <workItem from="1602937868943" duration="4354000" />
+      <workItem from="1602942951244" duration="514000" />
+      <workItem from="1602944056267" duration="718000" />
+      <workItem from="1602979900827" duration="1384000" />
+      <workItem from="1608272932627" duration="1815000" />
+      <workItem from="1608291684170" duration="5982000" />
+      <workItem from="1608339708218" duration="2969000" />
+      <workItem from="1608343642262" duration="7619000" />
+      <workItem from="1608358745232" duration="23986000" />
+      <workItem from="1608428448037" duration="36970000" />
+      <workItem from="1608536818749" duration="501000" />
+      <workItem from="1608537544774" duration="82000" />
+      <workItem from="1608540253966" duration="525000" />
+      <workItem from="1608541940203" duration="807000" />
+      <workItem from="1608544473222" duration="853000" />
+      <workItem from="1608546593687" duration="5191000" />
+      <workItem from="1608553883420" duration="1035000" />
+      <workItem from="1608556197454" duration="1859000" />
+      <workItem from="1608591949985" duration="594000" />
+      <workItem from="1608603371990" duration="2654000" />
+      <workItem from="1608606748972" duration="372000" />
+      <workItem from="1608607742412" duration="699000" />
+      <workItem from="1608609039559" duration="1075000" />
+      <workItem from="1608618249446" duration="693000" />
+      <workItem from="1608619920936" duration="106000" />
+      <workItem from="1608620486622" duration="173000" />
+      <workItem from="1608623815057" duration="257000" />
+      <workItem from="1608636423944" duration="605000" />
+      <workItem from="1608702955736" duration="1373000" />
+      <workItem from="1608704714506" duration="158000" />
+      <workItem from="1608705545344" duration="26000" />
+      <workItem from="1608717770937" duration="347000" />
+      <workItem from="1608724330217" duration="656000" />
+      <workItem from="1608725407585" duration="371000" />
+      <workItem from="1608728657804" duration="1612000" />
+      <workItem from="1608769246363" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1608717891625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1608717891625" />
+    <state x="550" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1608703639267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="74" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1608703639267" />
+    <state x="448" y="256" width="473" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608348495757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="256" width="473" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1608348495757" />
+    <state x="497" y="233" key="DetectedRootsChooserDialog" timestamp="1608296702818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="497" y="233" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1608296702818" />
+    <state x="357" y="104" key="FileChooserDialogImpl" timestamp="1608717889981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608717889981" />
+    <state x="263" y="106" key="IDE.errors.dialog" timestamp="1608725764262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1608725764262" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1608620660834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608620660834" />
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608465398553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1608465398553" />
+    <state x="413" y="122" key="extract.method.dialog" timestamp="1608554197497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="122" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1608554197497" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608725423490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608725423490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Desktop/qlib/net/frozenorb/qlib/nametag/NametagThread.java</url>
+          <line>21</line>
+          <properties class="net.frozenorb.qlib.nametag.NametagThread" method="run">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

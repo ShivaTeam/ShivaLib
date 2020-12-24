@@ -38,13 +38,13 @@ public class Honcho implements Listener {
 
         registerTypeAdapter(Player.class, new PlayerTypeAdapter());
         registerTypeAdapter(String.class, new StringTypeAdapter());
-        registerTypeAdapter(Number.class, new NumberTypeAdapter());
-        registerTypeAdapter(int.class, new NumberTypeAdapter());
-        registerTypeAdapter(long.class, new NumberTypeAdapter());
-        registerTypeAdapter(double.class, new NumberTypeAdapter());
-        registerTypeAdapter(float.class, new NumberTypeAdapter());
+        registerTypeAdapter(Byte.class, new NumberTypeAdapter());
+        registerTypeAdapter(Short.class, new NumberTypeAdapter());
+        registerTypeAdapter(Integer.class, new NumberTypeAdapter());
+        registerTypeAdapter(Long.class, new NumberTypeAdapter());
+        registerTypeAdapter(Double.class, new NumberTypeAdapter());
+        registerTypeAdapter(Float.class, new NumberTypeAdapter());
         registerTypeAdapter(Boolean.class, new BooleanTypeAdapter());
-        registerTypeAdapter(boolean.class, new BooleanTypeAdapter());
         registerTypeAdapter(World.class, new WorldTypeAdapter());
         registerTypeAdapter(GameMode.class, new GameModeTypeAdapter());
         registerTypeAdapter(CommandOption.class, new CommandOptionTypeAdapter());
